@@ -1,0 +1,92 @@
+.elaiya{
+ position: relative;
+ height: 100vh;
+ margin-top: 80px;
+ /* max-width: 900px; */
+}
+ .css-1v8x3m4{
+  height: 10px;
+ }
+
+.logout{
+position: absolute;
+top: 13px;
+right: 10px;
+}
+.button-8 {
+  background-color: #1e293b;
+  background-color: #0f51bb;
+    /* background-color: #fff; */
+    border: 0 solid #e2e8f0;
+    border-radius:20px;
+    box-sizing: border-box;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    font-family: "Basier circle",-apple-system,system-ui,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Noto Sans",sans-serif,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol","Noto Color Emoji";
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 1;
+    padding: 10px 10px;
+    text-align: center;
+    text-decoration: none #0d172a solid;
+    text-decoration-thickness: auto;
+    transition: all .1s cubic-bezier(.4, 0, .2, 1);
+    box-shadow: 0px 1px 2px rgba(166, 175, 195, 0.25);
+    user-select: none;
+    -webkit-user-select: none;
+    touch-action: manipulation;
+    /* width: 100px; */
+  }
+  
+  .button-8:hover {
+    background-color: #0f51bb;
+    background-color: #1e293b;
+    color: #fff;
+  }
+  
+
+
+
+
+
+
+/* 
+  .css-mhc70k-MuiGrid-root.MuiGrid-item {
+    width: 100%;
+        background-color: aqua;
+      }
+     .css-mhc70k-MuiGrid-root{
+    
+      background-color: rgb(62, 187, 24);
+     }
+     .css-5wly58-MuiDataGrid-root { 
+      width: 100%;
+      background-color: red;
+     }
+@media screen and (max-width: 480px) {
+  .elaiya{
+    margin-top: 100px;
+    position: relative;
+    height: 100vh;
+   
+   }
+   .logout{
+    position: absolute;
+    top: 20px;
+    right: 100px;
+    }
+    .css-mhc70k-MuiGrid-root.MuiGrid-item {
+  width: 100%;
+      background-color: aqua;
+    }
+   .css-mhc70k-MuiGrid-root{
+  
+    background-color: rgb(62, 187, 24);
+   }
+   .css-5wly58-MuiDataGrid-root { 
+    width: 100%;
+    background-color: red;
+   }
+
+} */

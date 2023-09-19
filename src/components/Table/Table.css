@@ -1,0 +1,167 @@
+.table{
+   padding-top: 40px;
+   max-width: 1094;
+}
+
+
+.MuiDataGrid-row{
+    max-height: 72px;
+     min-height: 62px;
+    margin-top: 9px;
+}
+
+h2{
+
+    text-align: start;
+}
+/* .Mui-selected [aria-selected="false"] {
+  background-color: rgba(25, 118, 210, 0.08);
+} */
+/* .MuiDataGrid-row .Mui-selected [aria-selected="false"]{
+
+} */
+
+
+/* create */
+/* #titel{
+    position: relative ;
+    left: 105px;
+   width: 228px;
+} */
+/* .css-14s5rfu-MuiFormLabel-root-MuiInputLabel-root{
+    position: relative ;
+    left: 205px;
+   
+} */
+
+/* .css-1u3bzj6-MuiFormControl-root-MuiTextField-root{
+ position: relative ;
+   right: 200px;
+} */
+
+
+
+/* .css-9ddj71-MuiInputBase-root-MuiOutlinedInput-root{
+    background-color: aqua;
+    position: relative ; 
+} */
+
+.create{
+    height: 100vh;
+    margin: 10px;
+    margin-left: 20px;
+    padding: 0;
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+   
+}
+
+.tag{
+    
+    /* position: relative ;
+     left: 105px; */
+    width: 228px;
+}
+.rti--container{
+    height: auto;
+}
+
+.uplode-img{
+    height: 120px;
+}
+.boder{
+   cursor: pointer;
+    border: 4px dotted rgb(70, 166, 239);
+}
+input{
+  width: 100%;
+    
+}
+.img{
+    width: 100%;
+}
+
+
+/* @media*/
+
+
+@media screen and (max-width: 980px) {
+  .h2{
+    position: relative;
+    margin-right: 100px;
+    margin-top: 25vh;
+  }
+  .create{
+    position: absolute; 
+    left: 50px;
+    margin-top: 40px;
+  }
+  
+  .table{
+    position: absolute; 
+    top: 150px;
+    
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    left: 1px;
+  }
+ 
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* CSS */
+.button-63 {
+  align-items: center;
+  background-image: linear-gradient(144deg,#AF40FF, #5B42F3 50%,#00DDEB);
+  border: 0;
+  border-radius: 8px;
+  box-shadow: rgba(151, 65, 252, 0.2) 0 15px 30px -5px;
+  box-sizing: border-box;
+  color: #FFFFFF;
+  display: flex;
+  font-family: Phantomsans, sans-serif;
+  font-size: 20px;
+  justify-content: center;
+  line-height: 0.3em;
+ 
+  width: 100%;
+  padding: 19px 24px;
+  text-decoration: none;
+  -webkit-user-select: none;
+  user-select: none;
+  touch-action: manipulation;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.button-63:active,
+.button-63:hover {
+  outline: 0;
+}
+
+@media (min-width: 768px) {
+  .button-63 {
+    font-size: 24px;
+    min-width: 196px;
+  }
+}
+
+
+
+
+
