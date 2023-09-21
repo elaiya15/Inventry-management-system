@@ -21,7 +21,7 @@ const EditButton = ({values}) => {
    
    {/* <button className="button-81" role="button" onClick={() => handleEdit({values})}> Edit</button> */}
     <TransitionsModal values={values}/>
-    <button className="button-81" role="button" onClick={() => handleDeleted(values.id)}>Deleted</button>
+    <button className="button-81" role="button" onClick={() => handleDeleted(values.id)}>Delete</button>
 
    </div>
 
