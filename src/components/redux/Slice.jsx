@@ -1,7 +1,7 @@
 /* eslint-disable react-refresh/only-export-components */
 /* eslint-disable no-unused-vars */
 import { createSlice } from '@reduxjs/toolkit'
-const initialState={taskList:[{name:"elaiya" ,tag:"hello",image:"",id:"1"},{name:"sabari" ,tag:"hello",image:"",id:"2"},{name:"navi" ,tag:"hello",image:"",id:"3"},{name:"kasavan" ,tag:"hello",image:"",id:"4"},{name:"Pranith" ,tag:"hello",image:"",id:"5"},{name:"venkat" ,tag:"hello",image:"",id:"6"}],
+const initialState={taskList:[{name:"elaiya" ,tag:"hello",image:"",id:"1"},{name:"sabari" ,tag:"hello",image:"",id:"2"},{name:"navi" ,tag:"hello",image:"",id:"3"}],
 selectedTask:{}}
 
 const Slice = createSlice({
